@@ -14,8 +14,27 @@ namespace _01_Užduotis
             int amzius = 24;
             Console.WriteLine($"Įvestas amžius: {amzius}");
             Console.WriteLine();
-            Console.WriteLine("{0}{0}{0}{0}{0}", amzius);
-            Console.WriteLine("{0} {0} {0} {0} {0}", amzius);
+            Console.WriteLine($"{amzius}{amzius}{amzius}{amzius}{amzius}");
+            Console.WriteLine($"{amzius} {amzius} {amzius} {amzius} {amzius}");
+            Console.WriteLine();
+            Console.WriteLine();
+
+            //Ir ChatGPT variantas
+            string repeatedString = "";
+            for (int i = 0; i < 5; i++)
+            {
+                repeatedString += amzius;
+            }
+            Console.WriteLine(repeatedString);
+            Console.WriteLine();
+            string concatenatedStrings = "";
+            for (int i = 0; i < 5; i++)
+            {
+                concatenatedStrings += amzius + " ";
+            }
+            Console.WriteLine(concatenatedStrings);
+
+
         }
     }
 }

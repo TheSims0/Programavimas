@@ -14,10 +14,8 @@ namespace _02_Užduotis
             //Pats sugalvojau taip
             Console.WriteLine("----------------------------------- \n" +
                               "|                                 |\n" +
-                              "|                                 |\n" +
                               "|           Mano vardas           |\n" +
                               "|             Simonas             |\n" +
-                              "|                                 |\n" +
                               "|                                 |\n" +
                               "-----------------------------------");
             //O čia su ChatGPT pagalba pavyko rezultata pagerint taip kad lentelės kraštai neišsilygiuotu ir tekstas visada būtu centruotas
@@ -32,8 +30,6 @@ namespace _02_Užduotis
             Console.WriteLine($"|{new string(' ', (totalWidth - name2.Length - 2) / 2)}{name2}{new string(' ', (totalWidth - name2.Length - 1) / 2)}|");
             Console.WriteLine($"|{new string(' ', totalWidth - 2)}|");
             Console.WriteLine(new string('-', totalWidth));
-
-
         }
     }
 }
