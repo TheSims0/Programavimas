@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Kintamieji", "01 Kintami
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Isvedimas", "02 Isvedimas", "{08AACB0A-A4D7-4D2C-808D-FC73A5DF2D66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Užduotis", "01 Užduotis\01 Užduotis.csproj", "{AB7AB209-DC3E-4AB9-956C-A17123F37BCB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis 01", "01 Užduotis\Uzduotis 01.csproj", "{AB7AB209-DC3E-4AB9-956C-A17123F37BCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Užduotis", "02 Užduotis\02 Užduotis.csproj", "{BEFCEB7A-F832-4D08-A49D-3C62F6B63886}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis 02", "02 Užduotis\Uzduotis 02.csproj", "{BEFCEB7A-F832-4D08-A49D-3C62F6B63886}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

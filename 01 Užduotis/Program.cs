@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace _01_Užduotis
 {
     internal class Program
@@ -18,7 +13,6 @@ namespace _01_Užduotis
             Console.WriteLine($"{amzius} {amzius} {amzius} {amzius} {amzius}");
             Console.WriteLine();
             Console.WriteLine();
-
             //Ir ChatGPT variantas
             string repeatedString = "";
             for (int i = 0; i < 5; i++)
@@ -33,8 +27,6 @@ namespace _01_Užduotis
                 concatenatedStrings += amzius + " ";
             }
             Console.WriteLine(concatenatedStrings);
-
-
         }
     }
 }
