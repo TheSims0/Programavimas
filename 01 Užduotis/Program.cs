@@ -1,5 +1,5 @@
 ﻿using System;
-namespace _01_Užduotis
+namespace Uzduotis01
 {
     internal class Program
     {
