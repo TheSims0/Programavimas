@@ -6,7 +6,7 @@ namespace Uzduotis09
         static void Main(string[] args)
         {
             Console.Write("Iveskite savo amziu: ");
-            int amzius = Convert.ToInt16(Console.ReadLine());
+            int amzius = Convert.ToInt32(Console.ReadLine());
             if (amzius >= 18)
             {
                 Console.WriteLine("Jus galite balsuoti!");
@@ -43,7 +43,7 @@ namespace Uzduotis09
                 Console.WriteLine("VALIO!");
             }
             else
-                    {
+            {
                 Console.WriteLine(":(");
             }
         }

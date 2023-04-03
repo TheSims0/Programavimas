@@ -22,7 +22,7 @@ namespace Uzduotis06
             Console.WriteLine();
             int dvizenklis = 25;
             int liekana = dvizenklis % 10;
-            int sveikas = (dvizenklis - liekana) / 10;
+            int sveikas = dvizenklis / 10;
             Console.WriteLine($"{liekana} * {sveikas} = {liekana * sveikas}");
         }
     }
