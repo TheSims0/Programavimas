@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Patikrinimas", "05 Patik
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis09", "Uzduotis09\Uzduotis09.csproj", "{03A37BCA-ABA5-429C-971B-E35980AA3DF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis10", "Uzduotis10\Uzduotis10.csproj", "{6A9E8157-70EC-4941-A8A7-A44A2F84BCFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{03A37BCA-ABA5-429C-971B-E35980AA3DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03A37BCA-ABA5-429C-971B-E35980AA3DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03A37BCA-ABA5-429C-971B-E35980AA3DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9E8157-70EC-4941-A8A7-A44A2F84BCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9E8157-70EC-4941-A8A7-A44A2F84BCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9E8157-70EC-4941-A8A7-A44A2F84BCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9E8157-70EC-4941-A8A7-A44A2F84BCFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +72,7 @@ Global
 		{94977368-3CEF-4C42-9426-69B082BA34BE} = {37128621-CBA4-4484-9B97-D289A382CA9C}
 		{D2CAE719-8ACB-4FB5-9F1A-3CFFFE811666} = {37128621-CBA4-4484-9B97-D289A382CA9C}
 		{03A37BCA-ABA5-429C-971B-E35980AA3DF6} = {DCF3F636-66D8-40A6-A9C5-9143444130AC}
+		{6A9E8157-70EC-4941-A8A7-A44A2F84BCFA} = {DCF3F636-66D8-40A6-A9C5-9143444130AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {43129A25-5F8D-402A-8269-AB85F7BF9430}
