@@ -20,6 +20,9 @@ namespace Uzduotis06
             Console.WriteLine($"{skaicius} * {daugiklis} = {skaicius * daugiklis++}");
             Console.WriteLine($"{skaicius} * {daugiklis} = {skaicius * daugiklis++}");
             Console.WriteLine($"{skaicius} * {daugiklis} = {skaicius * daugiklis++}");
+            Console.WriteLine();
+            int dvizenklis = 25;
+            Console.WriteLine($"2 * 5 = {2 * 5}");
         }
     }
 }
