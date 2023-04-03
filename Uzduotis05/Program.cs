@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Data.SqlClient;
-
 namespace Uzduotis05
 {
     internal class Program
