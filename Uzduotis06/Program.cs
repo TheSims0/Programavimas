@@ -5,7 +5,6 @@ namespace Uzduotis06
     {
         static void Main(string[] args)
         {
-            //Čia šiek tiek kitaip pabandžiau padaryt dėl įdomumo
             int daugiklis = 0;
             Console.Write("Įveskite norima skaičių: ");
             int skaicius = Convert.ToInt32(Console.ReadLine());
