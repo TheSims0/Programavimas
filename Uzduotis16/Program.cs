@@ -39,6 +39,7 @@ namespace Uzduotis16
                 if (i % 3 == 0 || i % 5 == 0) 
                 suma4 += i;
             }
+            Console.WriteLine("Skaičių, žemesnių už 1000 ir didesnių už 0, kurie dalinasi iš 3 arba 5 suma");
             Console.WriteLine($"Teisingas ats. 233168, gautas ats.: {suma4}");
         }
     }
